@@ -6,7 +6,7 @@ using System.IO;
 using Windows.Storage;
 using System;
 
-namespace Zinio.SDK.Data
+namespace Imagine.Uwp.Sqlite
 {
     public class BaseContext
     {

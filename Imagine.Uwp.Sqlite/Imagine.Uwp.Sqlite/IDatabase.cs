@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Zinio.SDK.Data
+namespace Imagine.Uwp.Sqlite
 {
     public interface IDatabase
     {

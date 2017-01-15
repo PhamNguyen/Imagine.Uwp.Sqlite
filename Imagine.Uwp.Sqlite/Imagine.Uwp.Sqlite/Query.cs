@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zinio.SDK.Data
+namespace Imagine.Uwp.Sqlite
 {
     public class Query<T> : BaseContext, IQuery<T> where T : class
     {

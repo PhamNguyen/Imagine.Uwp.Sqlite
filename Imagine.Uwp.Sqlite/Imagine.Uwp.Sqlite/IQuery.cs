@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Zinio.SDK.Data
+namespace Imagine.Uwp.Sqlite
 {
     public interface IQuery<T>
     {
